@@ -1,0 +1,4 @@
+SaleID,CustomerID,ProductID,Quantity,SaleDate
+1,1,2,1,2023-03-01
+2,1,1,1,2023-03-01
+3,2,3,2,2023-03-02
